@@ -1,0 +1,4 @@
+.hfignore
+.env
+__pycache__/
+.gradio/
